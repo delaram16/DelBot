@@ -233,23 +233,11 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {68747297},--Sudo users
+    sudo_users = {209414312,239832443,239299058,190519068,198794027,92688856,233464565,192467068,167839590,220173570,206295078,134461890,209689698},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Taylor Team v4
-    Taylor Team and Taylor Bot Anti spam / anti link
-    
-    website : 
-    taylortg.ir  ❤️
-    
-    admin : 
-    
-    @negative_officiall ❤️
-    
-    
-    channel : 
-    
-    
-    @taylor_Team ❤️
+    about_text = [[
+    Creator : @Delaram_Queen_TM
+    سازنده : @Delaram_Queen_TM
 ]],
     help_text_realm = [[
 Realm Commands:
